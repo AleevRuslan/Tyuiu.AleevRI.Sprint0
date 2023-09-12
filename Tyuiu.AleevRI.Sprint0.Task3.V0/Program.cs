@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-using Tyuiu.AleevRI.Sprint0.Task3.V0.Lib
+using Tyuiu.AleevRI.Sprint0.Task3.V0.Lib;
 
 namespace Tyuiu.AleevRI.Sprint0.Task3.V0
 {
